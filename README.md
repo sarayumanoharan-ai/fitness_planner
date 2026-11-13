@@ -3,4 +3,4 @@
 <img width="786" height="546" alt="Screenshot 2026-11-13 at 6 20 48 PM" src="https://github.com/user-attachments/assets/2ccb48db-a385-405f-8bd2-30e7b915a36a" />
 
 
- This is a streamlit application that takes structured inputs from the user about their fitness goals. 
+ This is a streamlit application that takes structured inputs from the user about their fitness goals and from this input, this application will generate a unique fitness plan using an LLMM via GROQ API. 
