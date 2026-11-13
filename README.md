@@ -1,5 +1,6 @@
- <img width="1063" height="750" alt="Screenshot 2026-11-13 at 4 28 09 PM" src="https://github.com/user-attachments/assets/85a541f8-30d2-46d1-a045-29077c00ddfa" />
- <img width="848" height="700" alt="Screenshot 2026-11-13 at 4 28 29 PM" src="https://github.com/user-attachments/assets/8b8b3f50-b5eb-422f-a5a3-8493d35bfee1" />
+<img width="1507" height="767" alt="Screenshot 2026-11-13 at 6 16 56 PM" src="https://github.com/user-attachments/assets/df73b466-1f33-4ecb-855f-348bb4b70ce8" />
+<img width="1505" height="766" alt="Screenshot 2026-11-13 at 6 17 14 PM" src="https://github.com/user-attachments/assets/3f57f456-ddd0-4a59-a1c0-c473bee508c2" />
+
 
 
  This is a streamlit application that takes structured inputs from the user about their business
