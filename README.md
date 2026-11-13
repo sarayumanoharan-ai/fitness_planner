@@ -10,9 +10,10 @@ This is a streamlit application that takes structured inputs from the user about
 
 After generating the fitness plans... 
 
+
 <img width="794" height="610" alt="Screenshot 2026-11-13 at 6 38 21 PM" src="https://github.com/user-attachments/assets/a1fcad02-db67-4e78-976d-a391a9a114c6" />
 <img width="791" height="683" alt="Screenshot 2026-11-13 at 6 38 43 PM" src="https://github.com/user-attachments/assets/af5eac94-4093-41d3-a667-11e5f98853b8" />
-<img width="783" height="674" alt="Screenshot 2026-11-13 at 6 20 30 PM" src="https://github.com/user-attachments/assets/2ba205a9-9702-490e-b6c6-99bfa57d677e" />
+
 
 
 
